@@ -9,7 +9,7 @@ The application allows you to **train new models**, **load existing models**, an
 - **Semantic Similarity Search**: The vector representations of words can be used to find semantically similar content in large text corpora, such as finding similar articles, documents, or sentences based on the context of the words.
 
 # Running the Application
-You can use the application in three different ways. You can either use the script without user interface via a **Jupiter file** located in "./Jupiter Notebook" or run the python script with a **user interface** via Word2Vec_Model_Explorer.py located in ./Application/. Alteratively, you can make a **portable executable file** of Word2Vec_Model_Explorer.py by using pyinstaller. I am not sharing a ready made exe file here because it would be too large for GitHub, but you can find a ready made exe file at this (link)[https://www.dropbox.com/s/k628n46tvd31rk5/Word2Vec_Model_Explorer.exe?dl=0] 
+You can use the application in three different ways. You can either use the script without user interface via a **Jupiter file** located in "./Jupiter Notebook" or run the python script with a **user interface** via Word2Vec_Model_Explorer.py located in ./Application/. Alteratively, you can make a **portable executable file** of Word2Vec_Model_Explorer.py by using pyinstaller. I am not sharing a ready made exe file here because it would be too large for GitHub, but you can find a ready made exe file at this [link](https://www.dropbox.com/s/k628n46tvd31rk5/Word2Vec_Model_Explorer.exe?dl=0)
 
 Here's a brief explanation of how to run the script using each of the three approaches:
 
@@ -40,7 +40,7 @@ c. Run the following command in the terminal or command prompt to create a stand
 ```
 pyinstaller --onefile Word2Vec_Model_Explorer.py
 ```
-d. Once the executable is created, it will be located in the ./Application/dist folder. You can then distribute and run the portable Word2Vec_Model_Explorer.exe file on any compatible computer without requiring Python or the application's dependencies to be installed. I am not sharing the file here because it is too large for Github, but you can find a ready made exe file at this (link)[https://www.dropbox.com/s/k628n46tvd31rk5/Word2Vec_Model_Explorer.exe?dl=0] 
+d. Once the executable is created, it will be located in the ./Application/dist folder. You can then distribute and run the portable Word2Vec_Model_Explorer.exe file on any compatible computer without requiring Python or the application's dependencies to be installed. I am not sharing the file here because it is too large for Github, but you can find a ready made exe file at this [link](https://www.dropbox.com/s/k628n46tvd31rk5/Word2Vec_Model_Explorer.exe?dl=0)
 
 # License
 
