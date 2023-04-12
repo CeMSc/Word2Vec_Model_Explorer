@@ -8,7 +8,9 @@ The application allows you to **train new models**, **load existing models**, an
 - **Building Taxonomies**: By finding related words, you can create hierarchies of concepts and organize them into taxonomies or ontologies for knowledge management and information retrieval purposes.
 - **Semantic Similarity Search**: The vector representations of words can be used to find semantically similar content in large text corpora, such as finding similar articles, documents, or sentences based on the context of the words.
 
+<div style="width: 60%; height: 60%; text-align: center;">
 ![W2VME UI](/images/image.png?raw=true "W2VME UI")
+</div>
 
 # Running the Application
 You can use the application in three different ways. You can either use the script without user interface via a **Jupiter file** located in "./Jupiter Notebook" or run the python script with a **user interface** via Word2Vec_Model_Explorer.py located in ./Application/. Alteratively, you can make a **portable executable file** of Word2Vec_Model_Explorer.py by using pyinstaller. I am not sharing a ready made exe file here because it would be too large for GitHub, but you can find a ready made exe file at this [link](https://www.dropbox.com/s/k628n46tvd31rk5/Word2Vec_Model_Explorer.exe?dl=0)
